@@ -5,8 +5,8 @@
 
 # ***Лекция 1: Сортировки: быстрая, слиянием и поразрядная*** :heart_eyes:
 ## ***Задачи***
-1) [A. Partition]() :white_check_mark:
-2) [B. Быстрая сортировка]() :white_check_mark:
-3) [C. Слияние]() :white_check_mark:
-4) [D. Сортировка слиянием]() :white_check_mark:
-5) [E. Поразрядная сортировка]() :white_check_mark:
+1) [*A. Partition*](https://github.com/DenisStepanidenko/Yandex-Training4_0/tree/master/src/Lesson1/ProblemA/Solution.java) :white_check_mark:
+2) [*B. Быстрая сортировка*](https://github.com/DenisStepanidenko/Yandex-Training4_0/tree/master/src/Lesson1/ProblemB/Solution.java) :white_check_mark:
+3) [*C. Слияние*](https://github.com/DenisStepanidenko/Yandex-Training4_0/tree/master/src/Lesson1/ProblemC/Solution.java) :white_check_mark:
+4) [*D. Сортировка слиянием*](https://github.com/DenisStepanidenko/Yandex-Training4_0/tree/master/src/Lesson1/ProblemD/Solution.java) :white_check_mark:
+5) [*E. Поразрядная сортировка*](https://github.com/DenisStepanidenko/Yandex-Training4_0/tree/master/src/Lesson1/ProblemE/Solution.java) :white_check_mark:
